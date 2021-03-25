@@ -1,0 +1,10 @@
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\bin\Debug\netstandard2.0\PricePredictionAIML.Model.deps.json
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\bin\Debug\netstandard2.0\PricePredictionAIML.Model.dll
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\bin\Debug\netstandard2.0\PricePredictionAIML.Model.pdb
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\obj\Debug\netstandard2.0\PricePredictionAIML.Model.csprojAssemblyReference.cache
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\obj\Debug\netstandard2.0\PricePredictionAIML.Model.AssemblyInfoInputs.cache
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\obj\Debug\netstandard2.0\PricePredictionAIML.Model.AssemblyInfo.cs
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\obj\Debug\netstandard2.0\PricePredictionAIML.Model.csproj.CoreCompileInputs.cache
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\obj\Debug\netstandard2.0\PricePredictionAIML.Model.dll
+C:\Users\samir.dahal\Desktop\PricePredictionAI\PricePredictionAIML.Model\obj\Debug\netstandard2.0\PricePredictionAIML.Model.pdb
